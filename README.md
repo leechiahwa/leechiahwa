@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Unity.
-- 🌱 I’m currently learning JavaScript.
+- 🔭 I’m currently working on Unity & JavaScript.
+- 🌱 I’m currently learning PHP.
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

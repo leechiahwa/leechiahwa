@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 -->
 ---
 ### 🚀 About Me :
-- 🔭 I’m currently working on Unity & JavaScript.
-- 🌱 I’m currently learning React.
+- 🔭 I’m currently working on React and Django.
+
 <!--
+- 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

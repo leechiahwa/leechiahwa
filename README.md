@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 ---
 ### 🚀 About Me :
-- 🔭 I’m currently working on React and Django.
+- 🔭 I'm currently pursuing my degree in Computer Science specializing in Artificial Intelligence while also working as a Software Developer. Mostly working on Python and Javascript at the moment.
 
 <!--
 - 🌱 I’m currently learning React.

@@ -10,28 +10,14 @@
   <h1>
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  I'm Melvin from Malaysia 🇲🇾
+  I'm Melvin Lee from Penang, Malaysia 🇲🇾
 </h1>
 </div>
 
-<!--
-**leechiahwa/leechiahwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 ---
 ### 🚀 About Me :
 - 🔭 I'm currently pursuing my degree in Computer Science specializing in Artificial Intelligence while also working as a Software Developer. Mostly working on Python and Javascript at the moment.
-
-<!--
-- 🌱 I’m currently learning React.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 My internship will start on End of June 2026 till the end of September. Currently seeking internship opportunities. Looking to intern as an AI Engineer to gain experience as well as exposure.
 
 ---
 

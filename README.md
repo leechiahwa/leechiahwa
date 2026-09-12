@@ -16,8 +16,8 @@
 
 ---
 ### 🚀 About Me :
-- 🔭 I'm currently pursuing my degree in Computer Science specializing in Artificial Intelligence while also working as a Software Developer. Mostly working on Python and Javascript at the moment.
-- 🎯 My internship will start on End of June 2026 till the end of September. Currently seeking internship opportunities. Looking to intern as an AI Engineer to gain experience as well as exposure.
+- 🔭 I'm currently pursuing my bachelor's degree in Computer Science specializing in Artificial Intelligence while also working as a Software Developer. Mostly working on Python and Javascript at the moment.
+- 🎯 I'm expected to complete my studies on December 2026. Currently seeking job opportunities. Interested in Backend/Fullstack/AI roles.
 
 ---
 

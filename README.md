@@ -21,7 +21,7 @@
 - 💻 Mainly work with Python and JavaScript/TypeScript
 - 🤖 Interested in applying AI and computer vision to real-world industrial problems
 - 📍 Based in Penang, Malaysia
-- 📫 Reach me at: leechiahwa9@gmail.com | [LinkedIn]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/melvin-lee-681a63269/))
+- 📫 Reach me at: leechiahwa9@gmail.com | [LinkedIn](https://www.linkedin.com/in/melvin-lee-681a63269/)
 
 ---
 

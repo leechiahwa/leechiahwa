@@ -16,8 +16,12 @@
 
 ---
 ### 🚀 About Me :
-- 🔭 I'm currently pursuing my bachelor's degree in Computer Science specializing in Artificial Intelligence while also working as a Software Developer. Mostly working on Python and Javascript at the moment.
-- 🎯 I'm expected to complete my studies on December 2026. Currently seeking job opportunities. Interested in Backend/Fullstack/AI roles.
+- 🔭 Software developer with 3+ years of experience building systems for smart manufacturing, from MES to automation
+- 🏭 Worked on Manufacturing Order Execution, Tool Monitoring Dashboard and Digital Twin systems
+- 💻 Mainly work with Python and JavaScript/TypeScript
+- 🤖 Interested in applying AI and computer vision to real-world industrial problems
+- 📍 Based in Penang, Malaysia
+- 📫 Reach me at: leechiahwa9@gmail.com | [LinkedIn]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/melvin-lee-681a63269/))
 
 ---
 
